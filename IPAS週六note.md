@@ -11,9 +11,15 @@ B. ISO 27001/ISMS、風險管理（取得平衡）、控制項、政策（最大
 # 2重要資安觀念   
 
 1邊界與分類（Boundary and classification）
+
 2職務區隔（Segregation of duties, SOD）>密碼分開輸入
+
 3縱深防禦（Layered defense, defense in depth）>很多種管控
+
 4單一脆弱點（Single point of failure, SPOF）>設備買一台壞掉即無用
+
 5阿奇里斯腱（Achilles heel）>安全強度永遠等於最弱點
+
 6木桶理論（Bucker principle）
+
 7僅知原則（Need to know）>業務需知
